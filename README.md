@@ -8,5 +8,5 @@ A small news website. which provides you updated news time on daily basis.
 
  - Go to https://newsapi.org site.
  - Activate your key
- - Put the key in index.js file at line no.5(in place of Your api).
+ - Put the key in index.js file at line no.5(in place of "Your Key").
  - Run the Code.
