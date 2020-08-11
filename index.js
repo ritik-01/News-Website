@@ -2,7 +2,7 @@ console.warn('Project 3');
 
 let newsBox = document.getElementById('accordion');
 
-api = 'Your Key';
+api = '8735692b77534305b67e00adfabaec44';
 
 const xhr = new XMLHttpRequest();
 xhr.open('GET', `https://newsapi.org/v2/top-headlines?country=in&apiKey=${api}`, true);
